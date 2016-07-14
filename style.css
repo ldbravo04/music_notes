@@ -1,0 +1,62 @@
+body{
+  background-image:url("http://montco.happeningmag.com/wp-content/uploads/2013/08/night-sky-hd-wallpaper-2.jpg");
+}
+
+#instrument{
+  hieght: 120px;
+  width: 812px;
+  padding-right: 10px;
+  padding-top: 50px;
+  margin: auto;
+
+}
+.box{
+  width: 100px;
+  height: 100px;
+  margin-left: 10px;
+  margin-top: 10px;
+  float: left;
+}
+
+#c{
+  background-color: #283593
+}
+#c:hover{
+  background-color: #1565c0
+}
+#d{
+  background-color: #303f9f
+}
+#d:hover{
+  background-color: #1976d2
+}
+#e{
+  background-color: #3949ab
+}
+#e:hover{
+  background-color: #1e88e5
+}
+#f{
+  background-color: #3f51b5
+}
+#f:hover{
+  background-color: #2196f3
+}
+#g{
+  background-color: #5c6bc0
+}
+#g:hover{
+  background-color: #42a5f5
+}
+#a{
+  background-color: #7986cb
+}
+#a:hover{
+  background-color: #64b5f6
+}
+#b{
+  background-color: #9fa8da
+}
+#b:hover{
+  background-color: #90caf9
+}
